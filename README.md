@@ -10,7 +10,7 @@ In this simulation, I recreated a typical helpdesk workflow by:
 
 - Launching a **Windows Server** on AWS EC2
 - Installing and configuring **Active Directory Domain Services (AD DS)**
-- Setting up a free **ServiceNow Developer Instance** for ticketing
+- Setting up a **ServiceNow Developer Instance** for ticketing
 - Performing common helpdesk operations:
   - Creating and managing user accounts
   - Resetting user passwords
